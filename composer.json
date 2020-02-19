@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "psr-4": {
+            "exchanged\\": "vendor/exchanged/core",
+            "app\\": "app"
+
+        }
+    },
+    "require": {
+        "gabordemooij/redbean": "^5.4"
+    }
+}
